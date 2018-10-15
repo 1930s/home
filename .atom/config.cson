@@ -4,6 +4,11 @@
     enableAutoConfirmSingleSuggestion: false
   autosave:
     enabled: true
+  "block-cursor":
+    global:
+      blinkOff:
+        backgroundColor: "#393939"
+  "block-select": {}
   "bracket-matcher":
     autocompleteBrackets: false
     autocompleteSmartQuotes: false
